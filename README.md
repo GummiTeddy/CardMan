@@ -91,7 +91,6 @@ Managing data privacy and security while processing card details was critical â€
 
 ## Future Work
 
-
 Integrate real-time transaction data via Plaid or bank APIs.
 
 
@@ -99,3 +98,6 @@ Expand to multi-country support with regional card benefits.
 
 
 Add personalized financial insights, helping users optimize spending patterns over time.
+
+
+
